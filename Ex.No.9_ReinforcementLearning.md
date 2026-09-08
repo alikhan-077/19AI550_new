@@ -1,6 +1,7 @@
 # Ex.No: 9  Implementation of RollarBall Design using Reinforcement Learning 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:22/8/2026  
+### Name: AHMED ALIKHAN S
+### REGISTER NUMBER : 212225230006
 ### AIM: 
 To write a program to design RollerBall and train the Rollerbal by Reinforcement learning  in Unity 
 ### Installation Required 
@@ -157,9 +158,20 @@ behaviors:
     max_steps: 500000
     time_horizon: 64
     summary_freq: 10000
+
+```
 ### Output:
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2c9eb0b2-4c2c-4142-b587-39829ecc860a" />
 
+
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f173b776-62ec-4a9c-b7c7-cee141cf5c82" />
+
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12fcff70-2d32-477f-89f5-ca2cb0eed18d" />
 
 
 
